@@ -1,0 +1,1 @@
+a standalone breakout board for Xilinx xc2c128-7tqg144i cplds
